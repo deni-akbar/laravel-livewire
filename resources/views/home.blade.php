@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Ini Halaman Home</h1>
+
+<livewire:car-price-list />
+
 @endsection
